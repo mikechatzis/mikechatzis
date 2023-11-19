@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 A few things about me:
-- 🔭 I’m currently working on expanding my stack and learning css/js-typescript.
+- 🔭 I’m currently working on expanding my stack and learning java/Springboot.
 - 🌱 I’m currently learning to build full-stack web apps fast and efficiently.
 - 👯 I’m looking to collaborate on any web app project
-- 🤔 I’m looking for help with best practices for front end developing.
+- 🤔 I’m looking for help with best practices for back end developing.
 - 💬 Ask me about anything, I'll try to answer anyway.
 - 📫 How to reach me: linkedin link below.
 - ⚡ Fun fact: I was studying to be a dentist fresh out of high school. Ended up graduating<br>from classical studies with a degree on piano and then taking on coding.
